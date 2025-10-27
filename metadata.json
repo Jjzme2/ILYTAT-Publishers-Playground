@@ -1,0 +1,7 @@
+{
+  "name": "Digital Publishing Playground",
+  "description": "A dual-interface web application for collaborative writing and publishing. Features a private studio for editors with AI-assisted creation tools, and a public, read-only portal for clients to view published works.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
